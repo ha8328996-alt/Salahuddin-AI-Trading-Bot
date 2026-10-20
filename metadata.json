@@ -1,0 +1,6 @@
+{
+  "name": "AI Trading Terminal",
+  "description": "Professional single-page AI trading terminal prototype with interactive candlestick charts, EMA & RSI indicators, transparent rule-based signals, and paper-trading simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
